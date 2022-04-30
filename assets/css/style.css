@@ -13,7 +13,7 @@ body {
 
 /*apply styles to the <header> */
 header {
-    padding: 25px 35px;
+    padding: 20px 35px;
     background-color: #39a6b2;
 }
 
@@ -190,4 +190,28 @@ section {
 
 .steps span {
     font-size: 38px;
+}
+
+/* trainers */
+.trainers {
+    text-align: center;
+}
+
+.trainer {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    color: #fce138;
+    overflow: auto;
+}
+
+.trainer img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
 }
