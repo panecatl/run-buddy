@@ -406,16 +406,16 @@ section {
     outline: none;
 }
 .contact-form input, .contact-form textarea {
-   border: 1px solid var(--secondary-color);
-   display: black;
-   padding: 7px 15px;
-   font-size: 16px;
-   color: var(--secondary-color);
-   width: 100%;
-   margin-bottom: 15px;
-   margin-top: 5px;
-   border-radius: 10px;
-   background-color: rgba(255,255,255, 0.75);
+    border: 1px solid var(--secondary-color);
+    display: black;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: var(--secondary-color);
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255, 0.75);
 }
 
 .contact-form button {
