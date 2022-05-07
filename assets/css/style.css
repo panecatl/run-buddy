@@ -135,14 +135,15 @@ section {
 
 .hero-form {
     border: 3px solid #024e76;
-    background-color: rgb(252,225,56);
+    background-color: rgb(255,225,56, 0.8);
     padding: 20px;
     color: #024e76;
     width: 40%;
     margin: 3.5%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
     border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
 
 .hero-form h3 {
     font-size: 24px;
